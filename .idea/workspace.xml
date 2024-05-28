@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f91c3d52-95a1-49d4-b73b-213a6227dbf6" name="Changes" comment="" />
+    <list default="true" id="f91c3d52-95a1-49d4-b73b-213a6227dbf6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/microcode/GroupAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/microcode/GroupAnagrams.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +55,8 @@
       <option name="presentableId" value="Default" />
       <updated>1716654383952</updated>
       <workItem from="1716654386394" duration="588000" />
-      <workItem from="1716853862364" duration="430000" />
+      <workItem from="1716853862364" duration="1303000" />
+      <workItem from="1716910206400" duration="258000" />
     </task>
     <servers />
   </component>
