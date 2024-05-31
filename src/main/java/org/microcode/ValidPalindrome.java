@@ -5,12 +5,4 @@ public class ValidPalindrome {
         StringBuilder newStr = new StringBuilder();
 
         for (char c : s.toCharArray()) {
-            if (Character.isLetterOrDigit(c)) {
-                newStr.append(Character.toLowerCase(c));
-            }
-        }
-        String filteredStr = newStr.toString();
-
-        return filteredStr.equals(new StringBuilder(filteredStr).reverse().toString());
-    }
-}
+            if (Character.isLetterOrDigit(c))
